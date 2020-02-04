@@ -1,0 +1,6 @@
+trailingComma: 'es5'
+tabWidth: 4
+semi: false
+singleQuote: true
+html.format.wrapAttributes: 'force'
+html.format.wrapLineLength: 40
